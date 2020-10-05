@@ -1,0 +1,6 @@
+Credentials cache: API:0363867F-0492-4071-A7FF-E0FF8213A71E
+        Principal: gfraizy@42LYON.FR
+
+  Issued                Expires               Principal
+Oct  5 14:08:30 2020  Oct  6 14:08:30 2020  krbtgt/42LYON.FR@42LYON.FR
+Oct  5 14:08:33 2020  Oct  6 14:08:30 2020  HTTP/san-ssd.42lyon.fr@42LYON.FR
